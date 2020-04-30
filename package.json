@@ -23,7 +23,7 @@
     "truffle-contract": "3.0.6"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "web3-eth": "^1.2.5"
   }
 }
